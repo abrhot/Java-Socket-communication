@@ -3,6 +3,8 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+import socket.ClientHandler;
+
 public class Server {
 
     private ServerSocket serverSocket;
